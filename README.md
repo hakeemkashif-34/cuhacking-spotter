@@ -78,5 +78,3 @@ Both are plain HTML, CSS, and JavaScript, with no frameworks or libraries. Both 
 2. [Vish Rajesh](https://www.linkedin.com/in/vish-rajesh-99b1272a7/)
 3. [Arham Siddiqi](https://www.linkedin.com/in/arhamsiddiqi/)
 4. [Kaden Pang](https://www.linkedin.com/in/kaden-pang/)
-
-We split up the roles, but everyone worked across the whole system, from the Pi and QNX to the backend and the front end. Vish also filmed, edited, and narrated a short documentary of the weekend.
